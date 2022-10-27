@@ -1,4 +1,4 @@
-This repository contains all material to the article
+This repository contains all materials to the article:
 
 M. Wiegand, M. Schulder, J. Ruppenhofer: "Determinining Sentiment Views of Verbal Multiword Expressions using Linguistic Features", under review.
 
